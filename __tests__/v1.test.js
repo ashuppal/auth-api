@@ -44,6 +44,4 @@ describe('v1 routes', () => {
     expect(response.body.name).toEqual('testFood');
   },
   );
-
-
 });
